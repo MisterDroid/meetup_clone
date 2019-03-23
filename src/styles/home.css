@@ -1,0 +1,25 @@
+.navbar{
+   min-height: 80px; 
+}
+
+.logo{
+    height: 45px;
+    width: 45px;
+}
+
+.Jumbotron{
+    font-family: 'Merriweather Sans', sans-serif;
+    color: white;
+}
+
+.container{
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 500px;
+}
+
+.space{
+    margin: 0 auto;
+    display:block;
+    justify-content:center;
+    align-items:center;
+}
